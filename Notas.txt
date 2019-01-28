@@ -1,0 +1,11 @@
+17/01/2018
+En clientes no muestro la direción
+Los nombres deben ir en mayuscula
+el nuemedo de documento deve haceptar 20 digitos
+vista crear articulo requiere cambiar titulo
+Nombre de articulos en mayusculas
+Triger para aumentar el stok
+Decimales de precios
+Dashboar con graficas
+Mostrar nombre d eusuario
+Permite imprimir reportes
